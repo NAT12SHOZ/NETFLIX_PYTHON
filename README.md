@@ -9,7 +9,8 @@ This project performs **Exploratory Data Analysis (EDA)** on Netflix Movies and 
 ## 📂 Dataset
 
 * **Source:** Kaggle
-* **File:** - [Dataset download](`https://github.com/NAT12SHOZ/NETFLIX_PYTHON/raw/refs/heads/main/Netflix_dataset.csv`)
+* **File:** [Dataset download](https://github.com/NAT12SHOZ/NETFLIX_PYTHON/raw/refs/heads/main/Netflix_dataset.csv)
+  
 
 Place the dataset inside the `data/` folder:
 
