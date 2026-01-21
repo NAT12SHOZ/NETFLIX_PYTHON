@@ -19,7 +19,7 @@ Place the dataset inside the `data/` folder:
 Netflix-Data-Analysis/
 │
 ├── data/
-│   └── netflix_titles.csv
+│   └── Netflix_dataset.csv
 ├── netflix_analysis.ipynb
 ├── requirements.txt
 └── README.md
