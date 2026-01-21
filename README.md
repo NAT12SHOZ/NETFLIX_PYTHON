@@ -4,7 +4,7 @@
 
 This project performs **Exploratory Data Analysis (EDA)** on Netflix Movies and TV Shows to uncover trends, patterns, and insights related to content type, genres, countries, release years, and ratings.
 
-[plots](line_plot.png)
+![plots](line_plot.png)
 <img width="854" height="703" alt="Screenshot 2026-01-21 083707" src="https://github.com/user-attachments/assets/0fb1949c-dedb-41bf-8537-09a11099ba14" />
 <img width="1119" height="712" alt="Screenshot 2026-01-21 084032" src="https://github.com/user-attachments/assets/d9c4b3b6-cc7d-439c-9b12-79218bf29b5a" />
 
