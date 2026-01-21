@@ -96,9 +96,6 @@ jupyter notebook netflix_analysis.ipynb
 
 ## 📌 Author
 
-**Ayaan Syed**
+**Natisha Sameer**
 
----
-
-⭐ If you like this project, give it a star!
 
