@@ -55,7 +55,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv('data/netflix_titles.csv')
+df = pd.read_csv('data/Netflix_dataset.csv')
 
 # Basic info
 print(df.shape)
